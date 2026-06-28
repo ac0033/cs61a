@@ -1,7 +1,11 @@
 [project]
 name = "cs61a"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "My completed coursework from UC Berkeley's CS 61A: Structure and Interpretation of Computer Programs"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = []
+
+[project.urls]
+Homepage = "https://cs61a.org"
+Source = "https://github.com/yourusername/cs61a"

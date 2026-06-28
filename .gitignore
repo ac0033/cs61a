@@ -1,0 +1,44 @@
+# ─── Python Bytecode ─────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# ─── Virtual Environment ─────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ─── IDE & Editor ────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── OS Artifacts ────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─── Jupyter Notebook Checkpoints ────────────────────────────
+.ipynb_checkpoints/
+
+# ─── CS61A Autograder Infrastructure ─────────────────────────
+# These are part of Berkeley's course grading system, not user code.
+ok
+.ok_*
+.ok_history
+.ok_storage*
+.ok_consent
+.ok_followups
+.ok_disabled
+.ok_context
+
+# ─── Course-Provided Utility Files ───────────────────────────
+# Static analysis tools distributed by the course.
+construct_check.py
+
+# ─── Course Scheme Interpreter Binaries ──────────────────────
+# Pre-compiled interpreter from course, not user code.
+disc/scheme
+lab/lab08/scheme
