@@ -110,7 +110,7 @@ A simulation of the classic dice game "Hog" with strategic AI players. Features 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cs61a.git
+git clone https://github.com/ac0033/cs61a.git
 cd cs61a
 
 # Ensure you have Python 3.14+
